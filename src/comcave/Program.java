@@ -1,4 +1,4 @@
-package cc;
+package comcave;
 
 public class Program {
 
