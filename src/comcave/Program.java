@@ -6,6 +6,8 @@ public class Program {
 		// Projektstart
 		System.out.println("Entwicklung Start");
 		new Window ().setVisible(true);
+		
+		
 	}
 
 }
